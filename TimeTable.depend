@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512300140 source:d:\documents\project programming\timetable\schedule.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+

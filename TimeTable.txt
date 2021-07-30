@@ -1,0 +1,1190 @@
+BENG1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+		| 17:00 - 17:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 12:00 - 12:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | Engineering_Materials_tut                               Asma_Perveen          6.112                   
+		| 10:00 - 10:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      7.322(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     7.322(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     7.322(Lab)              
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Health_and_Safety_tut                                   Ming_Yang             6.327                   
+		| 12:00 - 12:50 | Health_and_Safety_tut                                   Ming_Yang             6.327                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+BENG2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 12:00 - 12:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+		| 17:00 - 17:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Health_and_Safety_tut                                   Ming_Yang             Green_Hall              
+		| 15:00 - 15:50 | Health_and_Safety_tut                                   Ming_Yang             Green_Hall              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Engineering_Materials_tut                               Asma_Perveen          3.407                   
+		| 10:00 - 10:50 | Engineering_Materials_tut                               Asma_Perveen          3.407                   
+		| 11:00 - 11:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 12:00 - 12:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     6.422(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     6.422(Lab)              
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      6.522(Lab)              
+		| 10:00 - 10:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      6.522(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Engineering_Mechanics_tut                               Anatoli_Vakhguelt     3.415                   
+		| 15:00 - 15:50 | Engineering_Mechanics_tut                               Anatoli_Vakhguelt     3.415                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+BENG3
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 12:00 - 12:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+		| 17:00 - 17:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 12:00 - 12:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 14:00 - 14:50 | Engineering_Mechanics_tut                               Anatoli_Vakhguelt     3.220                   
+		| 15:00 - 15:50 | Engineering_Mechanics_tut                               Anatoli_Vakhguelt     3.220                   
+		| 16:00 - 16:50 | Engineering_Materials_tut                               Asma_Perveen          3.415                   
+		| 17:00 - 17:50 | Engineering_Materials_tut                               Asma_Perveen          3.415                   
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Engineering_Mathematics1_clab                           Anatoli_Vakhguelt     3.223(Lab)              
+		| 16:00 - 16:50 | Engineering_Mathematics1_clab                           Anatoli_Vakhguelt     3.223(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Health_and_Safety_tut                                   Ming_Yang             3.302                   
+		| 15:00 - 15:50 | Health_and_Safety_tut                                   Ming_Yang             3.302                   
+		| 16:00 - 16:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      3.223(Lab)              
+		| 17:00 - 17:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      3.223(Lab)              
+BENG4
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 12:00 - 12:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+		| 17:00 - 17:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     6.422(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics1_clab                           Vasileios_Zarikas     6.422(Lab)              
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 12:00 - 12:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Engineering_Materials_tut                               Vipin_Kizheppatt      Green_Hall              
+		| 16:00 - 16:50 | Engineering_Materials_tut                               Vipin_Kizheppatt      Green_Hall              
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Engineering_Mechanics_tut                               Asma_Perveen          3.309                   
+		| 15:00 - 15:50 | Engineering_Mechanics_tut                               Asma_Perveen          3.309                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      3.223(Lab)              
+		| 12:00 - 12:50 | Programming_for_Engineers_clab                          Vipin_Kizheppatt      3.223(Lab)              
+		| 14:00 - 14:50 | Health_and_Safety_tut                                   Vasileios_Zarikas     6.427                   
+		| 15:00 - 15:50 | Health_and_Safety_tut                                   Vasileios_Zarikas     6.427                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+BENG5
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 12:00 - 12:50 | Engineering_Mechanics_lec                               Anatoli_Vakhguelt     Blue_Hall               
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+		| 17:00 - 17:50 | Health_and_Safety_lec                                   Ming_Yang             Blue_Hall               
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Programming_for_Engineers_lec                           Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Health_and_Safety_tut                                   Ming_Yang             3.415                   
+		| 17:00 - 17:50 | Health_and_Safety_tut                                   Ming_Yang             3.415                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 12:00 - 12:50 | Engineering_Mathematics1_lec                            Vasileios_Zarikas     Orange_Hall             
+		| 14:00 - 14:50 | Engineering_Mechanics_tut                               Vipin_Kizheppatt      3.303                   
+		| 15:00 - 15:50 | Engineering_Mechanics_tut                               Vipin_Kizheppatt      3.303                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 11:00 - 11:50 | Engineering_Materials_lec                               Vipin_Kizheppatt      Orange_Hall             
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Engineering_Mathematics1_clab                           Vipin_Kizheppatt      6.422(Lab)              
+		| 16:00 - 16:50 | Engineering_Mathematics1_clab                           Vipin_Kizheppatt      6.422(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Programming_for_Engineers_clab                          Ming_Yang             3.217(Lab)              
+		| 10:00 - 10:50 | Programming_for_Engineers_clab                          Ming_Yang             3.217(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Engineering_Materials_tut                               Asma_Perveen          3.515                   
+		| 16:00 - 16:50 | Engineering_Materials_tut                               Asma_Perveen          3.515                   
+		| 17:00 - 17:50 | 
+2Civil1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Civil_Engineering_Materials_tut                         Chang_Shon            3.322                   
+		| 12:00 - 12:50 | Civil_Engineering_Materials_tut                         Chang_Shon            3.322                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Civil_Engineering_Materials_lab                         Chang_Shon            3.223(Lab)              
+		| 16:00 - 16:50 | Civil_Engineering_Materials_lab                         Chang_Shon            3.223(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Surveying_clab                                          Shazim_Memon          3.217(Lab)              
+		| 12:00 - 12:50 | Surveying_clab                                          Shazim_Memon          3.217(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Structural_Analysis_I_clab                              Shazim_Memon          3.217(Lab)              
+		| 16:00 - 16:50 | Structural_Analysis_I_clab                              Shazim_Memon          3.217(Lab)              
+		| 17:00 - 17:50 | Structural_Analysis_I_tut                               Shazim_Memon          3.322                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Serveying_lec                                           Shazim_Memon          Blue_Hall               
+		| 12:00 - 12:50 | Serveying_lec                                           Shazim_Memon          Blue_Hall               
+		| 14:00 - 14:50 | Civil_Engineering_CAD_clab                              Deuckhang_Lee         7.322(Lab)              
+		| 15:00 - 15:50 | Civil_Engineering_CAD_clab                              Deuckhang_Lee         7.322(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | Structural_Analysis_I_lec                               Shazim_Memon          3.223(Lab)              
+		| 10:00 - 10:50 | Civil_Engineering_Materials_lec                         Chang_Shon            3.221                   
+		| 11:00 - 11:50 | Civil_Engineering_Materials_lec                         Chang_Shon            3.221                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Civil_Engineering_CAD_lec                               Deuckhang_Lee         6.427                   
+		| 15:00 - 15:50 | Civil_Engineering_CAD_lec                               Deuckhang_Lee         6.427                   
+		| 16:00 - 16:50 | Civil_Engineering_CAD_tut                               Deuckhang_Lee         3.317                   
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Serveying_lab                                           Shazim_Memon          3.223(Lab)              
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         6.522(Lab)              
+		| 12:00 - 12:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         6.522(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Civil2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Structural_Analysis_I_clab                              Shazim_Memon          6.422(Lab)              
+		| 12:00 - 12:50 | Structural_Analysis_I_clab                              Shazim_Memon          6.422(Lab)              
+		| 14:00 - 14:50 | Civil_Engineering_CAD_clab                              Deuckhang_Lee         6.522(Lab)              
+		| 15:00 - 15:50 | Civil_Engineering_CAD_clab                              Deuckhang_Lee         6.522(Lab)              
+		| 16:00 - 16:50 | Civil_Engineering_Materials_lab                         Desmond_Adair         6.522(Lab)              
+		| 17:00 - 17:50 | Civil_Engineering_Materials_lab                         Desmond_Adair         6.522(Lab)              
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Surveying_clab                                          Shazim_Memon          3.217(Lab)              
+		| 10:00 - 10:50 | Surveying_clab                                          Shazim_Memon          3.217(Lab)              
+		| 11:00 - 11:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.223(Lab)              
+		| 12:00 - 12:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.223(Lab)              
+		| 14:00 - 14:50 | Structural_Analysis_I_tut                               Shazim_Memon          3.220                   
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Civil_Engineering_Materials_tut                         Chang_Shon            3.515                   
+		| 10:00 - 10:50 | Civil_Engineering_Materials_tut                         Chang_Shon            3.515                   
+		| 11:00 - 11:50 | Serveying_lec                                           Shazim_Memon          Blue_Hall               
+		| 12:00 - 12:50 | Serveying_lec                                           Shazim_Memon          Blue_Hall               
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Serveying_lab                                           Shazim_Memon          3.223(Lab)              
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | Structural_Analysis_I_lec                               Shazim_Memon          3.223(Lab)              
+		| 10:00 - 10:50 | Civil_Engineering_Materials_lec                         Chang_Shon            3.221                   
+		| 11:00 - 11:50 | Civil_Engineering_Materials_lec                         Chang_Shon            3.221                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Civil_Engineering_CAD_lec                               Deuckhang_Lee         6.427                   
+		| 15:00 - 15:50 | Civil_Engineering_CAD_lec                               Deuckhang_Lee         6.427                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Civil_Engineering_CAD_tut                               Deuckhang_Lee         3.416                   
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Chemic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Mechanics_of_Materials_tut                              Didier_Talamona       3.515                   
+		| 11:00 - 11:50 | Mechanics_of_Materials_tut                              Didier_Talamona       3.515                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 15:00 - 15:50 | Introduction_to_Chemical_Engineering_lec                Moulay-Rachid_Babaa   3.224                   
+		| 16:00 - 16:50 | Introduction_to_Chemical_Engineering_lec                Moulay-Rachid_Babaa   3.224                   
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Chemistry_I_lab                                         Zhumabay_Bakenov      6.422(Lab)              
+		| 10:00 - 10:50 | Chemistry_I_lab                                         Zhumabay_Bakenov      6.422(Lab)              
+		| 11:00 - 11:50 | Chemistry_I_lab                                         Zhumabay_Bakenov      6.422(Lab)              
+		| 12:00 - 12:50 | Chemistry_I_lab                                         Zhumabay_Bakenov      6.422(Lab)              
+		| 14:00 - 14:50 | Chemistry_I_tut                                         Zhumabay_Bakenov      3.316                   
+		| 15:00 - 15:50 | Chemistry_I_tut                                         Zhumabay_Bakenov      3.316                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.502                   
+		| 10:00 - 10:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.502                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Chemistry_I_lec                                         Zhumabay_Bakenov      6.407                   
+		| 16:00 - 16:50 | Chemistry_I_lec                                         Zhumabay_Bakenov      6.407                   
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Chemical_Engineering_Thermodynamics_lec                 Dhawal_Shah           6.327                   
+		| 11:00 - 11:50 | Chemical_Engineering_Thermodynamics_lec                 Dhawal_Shah           6.327                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Introduction_to_Chemical_Engineering_tut                Moulay-Rachid_Babaa   3.515                   
+		| 15:00 - 15:50 | Introduction_to_Chemical_Engineering_tut                Moulay-Rachid_Babaa   3.515                   
+		| 16:00 - 16:50 | Chemical_Engineering_Thermodynamics_tut                 Dhawal_Shah           3.316                   
+		| 17:00 - 17:50 | Chemical_Engineering_Thermodynamics_tut                 Dhawal_Shah           3.316                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Mechanics_of_Materials_lab                              Didier_Talamona       6.307(Lab)              
+		| 11:00 - 11:50 | Mechanics_of_Materials_lab                              Didier_Talamona       6.307(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Chemic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Mechanics_of_Materials_lab                              Didier_Talamona       3.217(Lab)              
+		| 11:00 - 11:50 | Mechanics_of_Materials_lab                              Didier_Talamona       3.217(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 15:00 - 15:50 | Introduction_to_Chemical_Engineering_lec                Moulay-Rachid_Babaa   3.224                   
+		| 16:00 - 16:50 | Introduction_to_Chemical_Engineering_lec                Moulay-Rachid_Babaa   3.224                   
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Chemistry_I_lab                                         Dhawal_Shah           3.227(Lab)              
+		| 10:00 - 10:50 | Chemistry_I_lab                                         Dhawal_Shah           3.227(Lab)              
+		| 11:00 - 11:50 | Chemistry_I_lab                                         Dhawal_Shah           3.227(Lab)              
+		| 12:00 - 12:50 | Chemistry_I_lab                                         Dhawal_Shah           3.227(Lab)              
+		| 14:00 - 14:50 | Introduction_to_Chemical_Engineering_tut                Moulay-Rachid_Babaa   3.303                   
+		| 15:00 - 15:50 | Introduction_to_Chemical_Engineering_tut                Moulay-Rachid_Babaa   3.303                   
+		| 16:00 - 16:50 | Mechanics_of_Materials_tut                              Didier_Talamona       3.224                   
+		| 17:00 - 17:50 | Mechanics_of_Materials_tut                              Didier_Talamona       3.224                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Chemistry_I_tut                                         Zhumabay_Bakenov      3.415                   
+		| 10:00 - 10:50 | Chemistry_I_tut                                         Zhumabay_Bakenov      3.415                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Chemistry_I_lec                                         Zhumabay_Bakenov      6.407                   
+		| 16:00 - 16:50 | Chemistry_I_lec                                         Zhumabay_Bakenov      6.407                   
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Chemical_Engineering_Thermodynamics_lec                 Dhawal_Shah           6.327                   
+		| 11:00 - 11:50 | Chemical_Engineering_Thermodynamics_lec                 Dhawal_Shah           6.327                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Chemical_Engineering_Thermodynamics_tut                 Dhawal_Shah           6.112                   
+		| 15:00 - 15:50 | Chemical_Engineering_Thermodynamics_tut                 Dhawal_Shah           6.112                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         7.322(Lab)              
+		| 10:00 - 10:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         7.322(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Electric1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Microelectronic_Devices_and_Circuits_lec                Alex_James            3.303                   
+		| 11:00 - 11:50 | Microelectronic_Devices_and_Circuits_lec                Alex_James            3.303                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.307(Lab)              
+		| 16:00 - 16:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.307(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Electronic_Engineering_Design_Principles_lec            Refik_Kizilirmak      3.303                   
+		| 10:00 - 10:50 | Electronic_Engineering_Design_Principles_lec            Refik_Kizilirmak      3.303                   
+		| 11:00 - 11:50 | Signals_and_Systems_lec                                 Behrouz_Maham         6.112                   
+		| 12:00 - 12:50 | Signals_and_Systems_lec                                 Behrouz_Maham         6.112                   
+		| 14:00 - 14:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 15:00 - 15:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 16:00 - 16:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.303                   
+		| 17:00 - 17:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.303                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.416                   
+		| 10:00 - 10:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.416                   
+		| 11:00 - 11:50 | Signals_and_Systems_lab                                 Behrouz_Maham         6.307(Lab)              
+		| 12:00 - 12:50 | Signals_and_Systems_lab                                 Behrouz_Maham         6.307(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         6.522(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         6.522(Lab)              
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       3.502                   
+		| 16:00 - 16:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       3.502                   
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Signals_and_Systems_tut                                 Behrouz_Maham         3.220                   
+		| 12:00 - 12:50 | Signals_and_Systems_tut                                 Behrouz_Maham         3.220                   
+		| 14:00 - 14:50 | Electronic_Engineering_Design_Principles_lab            Refik_Kizilirmak      3.217(Lab)              
+		| 15:00 - 15:50 | Electronic_Engineering_Design_Principles_lab            Refik_Kizilirmak      3.217(Lab)              
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Electric1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Microelectronic_Devices_and_Circuits_lec                Alex_James            3.303                   
+		| 11:00 - 11:50 | Microelectronic_Devices_and_Circuits_lec                Alex_James            3.303                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Electronic_Engineering_Design_Principles_lab            Refik_Kizilirmak      3.227(Lab)              
+		| 16:00 - 16:50 | Electronic_Engineering_Design_Principles_lab            Refik_Kizilirmak      3.227(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Electronic_Engineering_Design_Principles_lec            Refik_Kizilirmak      3.303                   
+		| 10:00 - 10:50 | Electronic_Engineering_Design_Principles_lec            Refik_Kizilirmak      3.303                   
+		| 11:00 - 11:50 | Signals_and_Systems_lec                                 Behrouz_Maham         6.112                   
+		| 12:00 - 12:50 | Signals_and_Systems_lec                                 Behrouz_Maham         6.112                   
+		| 14:00 - 14:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 15:00 - 15:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 16:00 - 16:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.416                   
+		| 17:00 - 17:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.416                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            3.502                   
+		| 12:00 - 12:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            3.502                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lab                         Refik_Kizilirmak      3.217(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lab                         Refik_Kizilirmak      3.217(Lab)              
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       6.422(Lab)              
+		| 11:00 - 11:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       6.422(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       6.154                   
+		| 15:00 - 15:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       6.154                   
+		| 16:00 - 16:50 | Signals_and_Systems_tut                                 Behrouz_Maham         3.132                   
+		| 17:00 - 17:50 | Signals_and_Systems_tut                                 Behrouz_Maham         3.132                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Signals_and_Systems_lab                                 Behrouz_Maham         6.422(Lab)              
+		| 15:00 - 15:50 | Signals_and_Systems_lab                                 Behrouz_Maham         6.422(Lab)              
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Mechanic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 15:00 - 15:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lab                         Evagoras_Xydas        3.217(Lab)              
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lab                         Evagoras_Xydas        3.217(Lab)              
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       3.502                   
+		| 11:00 - 11:50 | Sensors_and_Actuators_lab                               Nazim_Mir-Nasir       3.502                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 15:00 - 15:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 16:00 - 16:50 | Machine_Dynamics_I_lab                                  Evagoras_Xydas        3.502                   
+		| 17:00 - 17:50 | Machine_Dynamics_I_lab                                  Evagoras_Xydas        3.502                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Mechanics_of_Materials_lab                              Didier_Talamona       6.422(Lab)              
+		| 10:00 - 10:50 | Mechanics_of_Materials_lab                              Didier_Talamona       6.422(Lab)              
+		| 11:00 - 11:50 | Computer_Aided_Engineering_clab                         Yerkin_Abdildin       6.522(Lab)              
+		| 12:00 - 12:50 | Computer_Aided_Engineering_clab                         Yerkin_Abdildin       6.522(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Machine_Dynamics_I_lec                                  Evagoras_Xydas        3.220                   
+		| 17:00 - 17:50 | Machine_Dynamics_I_lec                                  Evagoras_Xydas        3.220                   
+~~~~Thursday~~~~| 09:00 - 09:50 | Machine_Dynamics_I_tut                                  Evagoras_Xydas        3.316                   
+		| 10:00 - 10:50 | Machine_Dynamics_I_tut                                  Evagoras_Xydas        3.316                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Computer_Aided_Engineering_lec                          Yerkin_Abdildin       Orange_Hall             
+		| 16:00 - 16:50 | Computer_Aided_Engineering_lec                          Yerkin_Abdildin       Orange_Hall             
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Mechanics_of_Materials_tut                              Evagoras_Xydas        3.221                   
+		| 11:00 - 11:50 | Mechanics_of_Materials_tut                              Evagoras_Xydas        3.221                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.316                   
+		| 15:00 - 15:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.316                   
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+2Mechanic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | Machine_Dynamics_I_tut                                  Evagoras_Xydas        3.302                   
+		| 10:00 - 10:50 | Machine_Dynamics_I_tut                                  Evagoras_Xydas        3.302                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 15:00 - 15:50 | Mechanics_of_Materials_lec                              Didier_Talamona       Orange_Hall             
+		| 16:00 - 16:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.132                   
+		| 17:00 - 17:50 | Sensors_and_Actuators_tut                               Nazim_Mir-Nasir       3.132                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Computer_Aided_Engineering_clab                         Yerkin_Abdildin       6.522(Lab)              
+		| 11:00 - 11:50 | Computer_Aided_Engineering_clab                         Yerkin_Abdildin       6.522(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 15:00 - 15:50 | Sensors_and_Actuators_lec                               Nazim_Mir-Nasir       Blue_Hall               
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Machine_Dynamics_I_lab                                  Evagoras_Xydas        3.227(Lab)              
+		| 10:00 - 10:50 | Machine_Dynamics_I_lab                                  Evagoras_Xydas        3.227(Lab)              
+		| 11:00 - 11:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.223(Lab)              
+		| 12:00 - 12:50 | Engineering_Mathematics_III_lab                         Desmond_Adair         3.223(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Machine_Dynamics_I_lec                                  Evagoras_Xydas        3.220                   
+		| 17:00 - 17:50 | Machine_Dynamics_I_lec                                  Evagoras_Xydas        3.220                   
+~~~~Thursday~~~~| 09:00 - 09:50 | Mechanics_of_Materials_lab                              Didier_Talamona       3.502                   
+		| 10:00 - 10:50 | Mechanics_of_Materials_lab                              Didier_Talamona       3.502                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Computer_Aided_Engineering_lec                          Yerkin_Abdildin       Orange_Hall             
+		| 16:00 - 16:50 | Computer_Aided_Engineering_lec                          Yerkin_Abdildin       Orange_Hall             
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Mechanics_of_Materials_tut                              Desmond_Adair         3.515                   
+		| 10:00 - 10:50 | Mechanics_of_Materials_tut                              Desmond_Adair         3.515                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Sensors_and_Actuators_lab                               Evagoras_Xydas        7.322(Lab)              
+		| 15:00 - 15:50 | Sensors_and_Actuators_lab                               Evagoras_Xydas        7.322(Lab)              
+		| 16:00 - 16:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+		| 17:00 - 17:50 | Engineering_Mathematics_III_lec                         Desmond_Adair         Blue_Hall               
+3Civil1
+~~~~~Monday~~~~~| 09:00 - 09:50 | Structural_Design-Concrete_clab                         Dichuan_Zhang         7.322(Lab)              
+		| 10:00 - 10:50 | Structural_Design-Concrete_clab                         Dichuan_Zhang         7.322(Lab)              
+		| 11:00 - 11:50 | Environmental_Engineering_tut                           Mert_Guney            3.317                   
+		| 12:00 - 12:50 | Environmental_Engineering_tut                           Mert_Guney            3.317                   
+		| 14:00 - 14:50 | Structural_Design-Concrete_tut                          Dichuan_Zhang         3.415                   
+		| 15:00 - 15:50 | Structural_Design-Concrete_tut                          Dichuan_Zhang         3.415                   
+		| 16:00 - 16:50 | Engineering_Geology_and_Rock_Mechanics_lab              Minh_Nguyen           3.502                   
+		| 17:00 - 17:50 | Engineering_Geology_and_Rock_Mechanics_lab              Minh_Nguyen           3.502                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Geology_and_Rock_Mechanics_lec              Minh_Nguyen           3.221                   
+		| 12:00 - 12:50 | Engineering_Geology_and_Rock_Mechanics_lec              Minh_Nguyen           3.221                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Structural_Design-Concrete_lec                          Dichuan_Zhang         6.154                   
+		| 17:00 - 17:50 | Structural_Design-Concrete_lec                          Dichuan_Zhang         6.154                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_tut                                  Md_Hossain            3.317                   
+		| 11:00 - 11:50 | Project_Management_tut                                  Md_Hossain            3.317                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Engineering_Geology_and_Rock_Mechanics_tut              Minh_Nguyen           3.416                   
+		| 17:00 - 17:50 | Engineering_Geology_and_Rock_Mechanics_tut              Minh_Nguyen           3.416                   
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Engineering_lec                           Mert_Guney            3.302                   
+		| 15:00 - 15:50 | Environmental_Engineering_lec                           Mert_Guney            3.302                   
+		| 16:00 - 16:50 | Construction_Technologies_and_Processes_lec             Hau_Leung             Blue_Hall               
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Construction_Technologies_and_Processes_tut             Hau_Leung             3.302                   
+		| 10:00 - 10:50 | Construction_Technologies_and_Processes_tut             Hau_Leung             3.302                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Structural_Design-Concrete_lab                          Dichuan_Zhang         3.217(Lab)              
+		| 17:00 - 17:50 | Structural_Design-Concrete_lab                          Dichuan_Zhang         3.217(Lab)              
+3Civil2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Engineering_Geology_and_Rock_Mechanics_tut              Minh_Nguyen           6.407                   
+		| 11:00 - 11:50 | Engineering_Geology_and_Rock_Mechanics_tut              Minh_Nguyen           6.407                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Structural_Design-Concrete_tut                          Dichuan_Zhang         3.407                   
+		| 17:00 - 17:50 | Structural_Design-Concrete_tut                          Dichuan_Zhang         3.407                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Engineering_Geology_and_Rock_Mechanics_lec              Minh_Nguyen           3.221                   
+		| 12:00 - 12:50 | Engineering_Geology_and_Rock_Mechanics_lec              Minh_Nguyen           3.221                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Structural_Design-Concrete_lec                          Dichuan_Zhang         6.154                   
+		| 17:00 - 17:50 | Structural_Design-Concrete_lec                          Dichuan_Zhang         6.154                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_tut                                  Mert_Guney            3.143                   
+		| 11:00 - 11:50 | Project_Management_tut                                  Mert_Guney            3.143                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Construction_Technologies_and_Processes_tut             Hau_Leung             3.322                   
+		| 15:00 - 15:50 | Construction_Technologies_and_Processes_tut             Hau_Leung             3.322                   
+		| 16:00 - 16:50 | Engineering_Geology_and_Rock_Mechanics_lab              Dichuan_Zhang         6.307(Lab)              
+		| 17:00 - 17:50 | Engineering_Geology_and_Rock_Mechanics_lab              Dichuan_Zhang         6.307(Lab)              
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Engineering_lec                           Mert_Guney            3.302                   
+		| 15:00 - 15:50 | Environmental_Engineering_lec                           Mert_Guney            3.302                   
+		| 16:00 - 16:50 | Construction_Technologies_and_Processes_lec             Hau_Leung             Blue_Hall               
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Structural_Design-Concrete_clab                         Dichuan_Zhang         3.502                   
+		| 10:00 - 10:50 | Structural_Design-Concrete_clab                         Dichuan_Zhang         3.502                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Engineering_tut                           Mert_Guney            6.407                   
+		| 15:00 - 15:50 | Environmental_Engineering_tut                           Mert_Guney            6.407                   
+		| 16:00 - 16:50 | Structural_Design-Concrete_lab                          Mert_Guney            6.522(Lab)              
+		| 17:00 - 17:50 | Structural_Design-Concrete_lab                          Mert_Guney            6.522(Lab)              
+3Chemic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | Separation_Processes-I_clab                             Vasileios_Inglezakis  6.522(Lab)              
+		| 10:00 - 10:50 | Separation_Processes-I_clab                             Vasileios_Inglezakis  6.522(Lab)              
+		| 11:00 - 11:50 | Transport_Phenomena-II_clab                             Sergey_Spotar         6.522(Lab)              
+		| 12:00 - 12:50 | Transport_Phenomena-II_clab                             Sergey_Spotar         6.522(Lab)              
+		| 14:00 - 14:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  6.422(Lab)              
+		| 15:00 - 15:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  6.422(Lab)              
+		| 16:00 - 16:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  6.422(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Chemical_Reaction_Engineering_lab                       Stavros_Poulopoulos   6.307(Lab)              
+		| 10:00 - 10:50 | Chemical_Reaction_Engineering_lab                       Stavros_Poulopoulos   6.307(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Transport_Phenomena-II_tut                              Sergey_Spotar         3.317                   
+		| 17:00 - 17:50 | Transport_Phenomena-II_tut                              Sergey_Spotar         3.317                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Research_Practice_lec                                   Jorge_Ona_Ruales      3.316                   
+		| 10:00 - 10:50 | Research_Practice_lec                                   Jorge_Ona_Ruales      3.316                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Chemical_Reaction_Engineering_clab                      Stavros_Poulopoulos   6.307(Lab)              
+		| 15:00 - 15:50 | Chemical_Reaction_Engineering_clab                      Stavros_Poulopoulos   6.307(Lab)              
+		| 16:00 - 16:50 | Chemical_Reaction_Engineering_lec                       Stavros_Poulopoulos   Blue_Hall               
+		| 17:00 - 17:50 | Chemical_Reaction_Engineering_lec                       Stavros_Poulopoulos   Blue_Hall               
+~~~~Thursday~~~~| 09:00 - 09:50 | Separation_Processes-I_lec                              Vasileios_Inglezakis  3.309                   
+		| 10:00 - 10:50 | Separation_Processes-I_lec                              Vasileios_Inglezakis  3.309                   
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Separation_Processes-I_tut                              Vasileios_Inglezakis  3.221                   
+		| 10:00 - 10:50 | Project_Management_tut                                  Md_Hossain            3.316                   
+		| 11:00 - 11:50 | Project_Management_tut                                  Md_Hossain            3.316                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Transport_Phenomena-II_lec                              Sergey_Spotar         6.112                   
+		| 15:00 - 15:50 | Transport_Phenomena-II_lec                              Sergey_Spotar         6.112                   
+		| 16:00 - 16:50 | Research_Practice_tut                                   Jorge_Ona_Ruales      6.154                   
+		| 17:00 - 17:50 | Research_Practice_tut                                   Jorge_Ona_Ruales      6.154                   
+3Chemic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Transport_Phenomena-II_clab                             Sergey_Spotar         3.227(Lab)              
+		| 11:00 - 11:50 | Transport_Phenomena-II_clab                             Sergey_Spotar         3.227(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Chemical_Reaction_Engineering_lab                       Stavros_Poulopoulos   7.322(Lab)              
+		| 16:00 - 16:50 | Chemical_Reaction_Engineering_lab                       Stavros_Poulopoulos   7.322(Lab)              
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Separation_Processes-I_tut                              Vasileios_Inglezakis  3.302                   
+		| 10:00 - 10:50 | Separation_Processes-I_clab                             Vasileios_Inglezakis  7.322(Lab)              
+		| 11:00 - 11:50 | Separation_Processes-I_clab                             Vasileios_Inglezakis  7.322(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  7.322(Lab)              
+		| 16:00 - 16:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  7.322(Lab)              
+		| 17:00 - 17:50 | Separation_Processes-I_lab                              Vasileios_Inglezakis  7.322(Lab)              
+~~~~Wednesday~~~| 09:00 - 09:50 | Research_Practice_lec                                   Jorge_Ona_Ruales      3.316                   
+		| 10:00 - 10:50 | Research_Practice_lec                                   Jorge_Ona_Ruales      3.316                   
+		| 11:00 - 11:50 | Research_Practice_tut                                   Jorge_Ona_Ruales      3.302                   
+		| 12:00 - 12:50 | Research_Practice_tut                                   Jorge_Ona_Ruales      3.302                   
+		| 14:00 - 14:50 | Chemical_Reaction_Engineering_clab                      Jorge_Ona_Ruales      6.422(Lab)              
+		| 15:00 - 15:50 | Chemical_Reaction_Engineering_clab                      Jorge_Ona_Ruales      6.422(Lab)              
+		| 16:00 - 16:50 | Chemical_Reaction_Engineering_lec                       Stavros_Poulopoulos   Blue_Hall               
+		| 17:00 - 17:50 | Chemical_Reaction_Engineering_lec                       Stavros_Poulopoulos   Blue_Hall               
+~~~~Thursday~~~~| 09:00 - 09:50 | Separation_Processes-I_lec                              Vasileios_Inglezakis  3.309                   
+		| 10:00 - 10:50 | Separation_Processes-I_lec                              Vasileios_Inglezakis  3.309                   
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Transport_Phenomena-II_tut                              Sergey_Spotar         3.415                   
+		| 15:00 - 15:50 | Transport_Phenomena-II_tut                              Sergey_Spotar         3.415                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Project_Management_tut                                  Stavros_Poulopoulos   3.316                   
+		| 12:00 - 12:50 | Project_Management_tut                                  Stavros_Poulopoulos   3.316                   
+		| 14:00 - 14:50 | Transport_Phenomena-II_lec                              Sergey_Spotar         6.112                   
+		| 15:00 - 15:50 | Transport_Phenomena-II_lec                              Sergey_Spotar         6.112                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+3Electric1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Digital_integrated_circuits_design_lec                  Daniele_Tosi          3.224                   
+		| 11:00 - 11:50 | Digital_integrated_circuits_design_lec                  Daniele_Tosi          3.224                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Power_Electronics_lab                                   Alexander_Ruderman    3.217(Lab)              
+		| 15:00 - 15:50 | Power_Electronics_lab                                   Alexander_Ruderman    3.217(Lab)              
+		| 16:00 - 16:50 | Electromagnetics_lec                                    Daniele_Tosi          3.316                   
+		| 17:00 - 17:50 | Electromagnetics_lec                                    Daniele_Tosi          3.316                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Power_Electronics_lec                                   Alexander_Ruderman    6.427                   
+		| 10:00 - 10:50 | Power_Electronics_lec                                   Alexander_Ruderman    6.427                   
+		| 11:00 - 11:50 | Power_Electronics_tut                                   Alexander_Ruderman    6.154                   
+		| 12:00 - 12:50 | Power_Electronics_tut                                   Alexander_Ruderman    6.154                   
+		| 14:00 - 14:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            6.327                   
+		| 15:00 - 15:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            6.327                   
+		| 16:00 - 16:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.307(Lab)              
+		| 17:00 - 17:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.307(Lab)              
+~~~~Wednesday~~~| 09:00 - 09:50 | Project_Management_tut                                  Alexander_Ruderman    3.309                   
+		| 10:00 - 10:50 | Project_Management_tut                                  Alexander_Ruderman    3.309                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Electromagnetics_tut                                    Daniele_Tosi          3.416                   
+		| 15:00 - 15:50 | Electromagnetics_tut                                    Daniele_Tosi          3.416                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Digital_Signal_and_Image_Processing_lec                 Muhammad_Akhtar       3.416                   
+		| 15:00 - 15:50 | Digital_Signal_and_Image_Processing_lec                 Muhammad_Akhtar       3.416                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Digital_integrated_circuits_design_tut                  Alex_James            3.317                   
+		| 10:00 - 10:50 | Digital_integrated_circuits_design_tut                  Alex_James            3.317                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Digital_integrated_circuits_design_lab                  Alex_James            3.227(Lab)              
+		| 15:00 - 15:50 | Digital_integrated_circuits_design_lab                  Alex_James            3.227(Lab)              
+		| 16:00 - 16:50 | Electromagnetics_lab                                    Daniele_Tosi          7.322(Lab)              
+		| 17:00 - 17:50 | Electromagnetics_lab                                    Daniele_Tosi          7.322(Lab)              
+3Electric1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Digital_integrated_circuits_design_lec                  Daniele_Tosi          3.224                   
+		| 11:00 - 11:50 | Digital_integrated_circuits_design_lec                  Daniele_Tosi          3.224                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Electromagnetics_tut                                    Daniele_Tosi          6.427                   
+		| 15:00 - 15:50 | Electromagnetics_tut                                    Daniele_Tosi          6.427                   
+		| 16:00 - 16:50 | Electromagnetics_lec                                    Daniele_Tosi          3.316                   
+		| 17:00 - 17:50 | Electromagnetics_lec                                    Daniele_Tosi          3.316                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Power_Electronics_lec                                   Alexander_Ruderman    6.427                   
+		| 10:00 - 10:50 | Power_Electronics_lec                                   Alexander_Ruderman    6.427                   
+		| 11:00 - 11:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.407                   
+		| 12:00 - 12:50 | Microelectronic_Devices_and_Circuits_tut                Alex_James            3.407                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Project_Management_tut                                  Md_Hossain            3.220                   
+		| 16:00 - 16:50 | Project_Management_tut                                  Md_Hossain            3.220                   
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Power_Electronics_tut                                   Alex_James            3.302                   
+		| 10:00 - 10:50 | Power_Electronics_tut                                   Alex_James            3.302                   
+		| 11:00 - 11:50 | Digital_integrated_circuits_design_lab                  Daniele_Tosi          3.227(Lab)              
+		| 12:00 - 12:50 | Digital_integrated_circuits_design_lab                  Daniele_Tosi          3.227(Lab)              
+		| 14:00 - 14:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.522(Lab)              
+		| 15:00 - 15:50 | Microelectronic_Devices_and_Circuits_lab                Alex_James            6.522(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 11:00 - 11:50 | Project_Management_lec                                  Md_Hossain            Blue_Hall               
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Digital_Signal_and_Image_Processing_lec                 Muhammad_Akhtar       3.416                   
+		| 15:00 - 15:50 | Digital_Signal_and_Image_Processing_lec                 Muhammad_Akhtar       3.416                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Digital_integrated_circuits_design_tut                  Daniele_Tosi          3.224                   
+		| 10:00 - 10:50 | Digital_integrated_circuits_design_tut                  Daniele_Tosi          3.224                   
+		| 11:00 - 11:50 | Electromagnetics_lab                                    Daniele_Tosi          3.217(Lab)              
+		| 12:00 - 12:50 | Electromagnetics_lab                                    Daniele_Tosi          3.217(Lab)              
+		| 14:00 - 14:50 | Power_Electronics_lab                                   Alexander_Ruderman    3.502                   
+		| 15:00 - 15:50 | Power_Electronics_lab                                   Alexander_Ruderman    3.502                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+3Mechanic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Project_Management_tut                                  Md_Hossain            3.416                   
+		| 15:00 - 15:50 | Project_Management_tut                                  Md_Hossain            3.416                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Heat_Transfer_tut                                       Maxim_Lu              3.309                   
+		| 10:00 - 10:50 | Heat_Transfer_tut                                       Maxim_Lu              3.309                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Machine_Dynamics_II_tut                                 Didier_Talamona       3.132                   
+		| 16:00 - 16:50 | Machine_Dynamics_II_tut                                 Didier_Talamona       3.132                   
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Advanced_Control_Systems_lab                            Md_Ali                7.322(Lab)              
+		| 11:00 - 11:50 | Advanced_Control_Systems_lab                            Md_Ali                7.322(Lab)              
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Heat_Transfer_lab                                       Maxim_Lu              3.502                   
+		| 15:00 - 15:50 | Heat_Transfer_lab                                       Maxim_Lu              3.502                   
+		| 16:00 - 16:50 | Machine_Dynamics_II_lab                                 Didier_Talamona       3.502                   
+		| 17:00 - 17:50 | Machine_Dynamics_II_lab                                 Didier_Talamona       3.502                   
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Heat_Transfer_lec                                       Maxim_Lu              6.154                   
+		| 11:00 - 11:50 | Heat_Transfer_lec                                       Maxim_Lu              6.154                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Advanced_Control_Systems_lec                            Md_Ali                3.407                   
+		| 17:00 - 17:50 | Advanced_Control_Systems_lec                            Md_Ali                3.407                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Machine_Dynamics_II_lec                                 Didier_Talamona       3.416                   
+		| 16:00 - 16:50 | Machine_Dynamics_II_lec                                 Didier_Talamona       3.416                   
+		| 17:00 - 17:50 | 
+3Mechanic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Project_Management_tut                                  Maxim_Lu              6.408                   
+		| 15:00 - 15:50 | Project_Management_tut                                  Maxim_Lu              6.408                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Machine_Dynamics_II_tut                                 Didier_Talamona       Green_Hall              
+		| 10:00 - 10:50 | Machine_Dynamics_II_tut                                 Didier_Talamona       Green_Hall              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Project_Management_lec                                  Maxim_Lu              Orange_Hall             
+		| 15:00 - 15:50 | Project_Management_lec                                  Maxim_Lu              Orange_Hall             
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Advanced_Control_Systems_lab                            Didier_Talamona       6.307(Lab)              
+		| 10:00 - 10:50 | Advanced_Control_Systems_lab                            Didier_Talamona       6.307(Lab)              
+		| 11:00 - 11:50 | Heat_Transfer_tut                                       Maxim_Lu              3.309                   
+		| 12:00 - 12:50 | Heat_Transfer_tut                                       Maxim_Lu              3.309                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Heat_Transfer_lec                                       Maxim_Lu              6.154                   
+		| 11:00 - 11:50 | Heat_Transfer_lec                                       Maxim_Lu              6.154                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Machine_Dynamics_II_lab                                 Didier_Talamona       6.522(Lab)              
+		| 15:00 - 15:50 | Machine_Dynamics_II_lab                                 Didier_Talamona       6.522(Lab)              
+		| 16:00 - 16:50 | Advanced_Control_Systems_lec                            Md_Ali                3.407                   
+		| 17:00 - 17:50 | Advanced_Control_Systems_lec                            Md_Ali                3.407                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | Heat_Transfer_lab                                       Maxim_Lu              6.422(Lab)              
+		| 10:00 - 10:50 | Heat_Transfer_lab                                       Maxim_Lu              6.422(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Machine_Dynamics_II_lec                                 Didier_Talamona       3.416                   
+		| 16:00 - 16:50 | Machine_Dynamics_II_lec                                 Didier_Talamona       3.416                   
+		| 17:00 - 17:50 | 
+4Civil1
+~~~~~Monday~~~~~| 09:00 - 09:50 | Highway_Engineering_lab                                 Chang_Shon            3.502                   
+		| 10:00 - 10:50 | Highway_Engineering_lab                                 Chang_Shon            3.502                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Highway_Engineering_lec                                 Moulay-Rachid_Babaa   6.407                   
+		| 15:00 - 15:50 | Highway_Engineering_lec                                 Moulay-Rachid_Babaa   6.407                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Systems_lec                               Yelyzaveta_Arkhangelsky6.422(Lab)              
+		| 15:00 - 15:50 | Environmental_Systems_lec                               Yelyzaveta_Arkhangelsky6.422(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Environmental_Systems_tut                               Yelyzaveta_Arkhangelsky3.316                   
+		| 11:00 - 11:50 | Environmental_Systems_tut                               Yelyzaveta_Arkhangelsky3.316                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.217(Lab)              
+		| 15:00 - 15:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.217(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Highway_Engineering_tut                                 Chang_Shon            3.132                   
+		| 12:00 - 12:50 | Highway_Engineering_tut                                 Chang_Shon            3.132                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+4Civil2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.223(Lab)              
+		| 12:00 - 12:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.223(Lab)              
+		| 14:00 - 14:50 | Highway_Engineering_lec                                 Moulay-Rachid_Babaa   6.407                   
+		| 15:00 - 15:50 | Highway_Engineering_lec                                 Moulay-Rachid_Babaa   6.407                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Highway_Engineering_tut                                 Chang_Shon            3.143                   
+		| 10:00 - 10:50 | Highway_Engineering_tut                                 Chang_Shon            3.143                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Systems_lec                               Yelyzaveta_Arkhangelsky6.422(Lab)              
+		| 15:00 - 15:50 | Environmental_Systems_lec                               Yelyzaveta_Arkhangelsky6.422(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Environmental_Systems_tut                               Yelyzaveta_Arkhangelsky6.408                   
+		| 15:00 - 15:50 | Environmental_Systems_tut                               Yelyzaveta_Arkhangelsky6.408                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | Highway_Engineering_lab                                 Chang_Shon            6.307(Lab)              
+		| 17:00 - 17:50 | Highway_Engineering_lab                                 Chang_Shon            6.307(Lab)              
+4Chemic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | Multi-Phase_Flows_clab                                  Boris_Golman          3.223(Lab)              
+		| 10:00 - 10:50 | Multi-Phase_Flows_clab                                  Boris_Golman          3.223(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Computational_Methods_in_Chemical_Engineering-II_tut    Boris_Golman          6.408                   
+		| 17:00 - 17:50 | Computational_Methods_in_Chemical_Engineering-II_tut    Boris_Golman          6.408                   
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Multi-Phase_Flows_lec                                   Boris_Golman          3.407                   
+		| 17:00 - 17:50 | Multi-Phase_Flows_lec                                   Boris_Golman          3.407                   
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Multi-Phase_Flows_tut                                   Sergey_Spotar         3.302                   
+		| 12:00 - 12:50 | Multi-Phase_Flows_tut                                   Sergey_Spotar         3.302                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Computational_Methods_in_Chemical_Engineering-II_lec    Boris_Golman          3.302                   
+		| 11:00 - 11:50 | Computational_Methods_in_Chemical_Engineering-II_lec    Boris_Golman          3.302                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+		| 17:00 - 17:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | Advanced_Process_Simulation_clab                        Torkmahalleh_Amouei   7.322(Lab)              
+		| 12:00 - 12:50 | Advanced_Process_Simulation_clab                        Torkmahalleh_Amouei   7.322(Lab)              
+		| 14:00 - 14:50 | Advanced_Process_Simulation_lec                         Torkmahalleh_Amouei   3.223(Lab)              
+		| 15:00 - 15:50 | Advanced_Process_Simulation_lec                         Torkmahalleh_Amouei   3.223(Lab)              
+		| 16:00 - 16:50 | Computational_Methods_in_Chemical_Engineering-II_clab   Boris_Golman          6.422(Lab)              
+		| 17:00 - 17:50 | Computational_Methods_in_Chemical_Engineering-II_clab   Boris_Golman          6.422(Lab)              
+4Chemic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Multi-Phase_Flows_tut                                   Boris_Golman          6.112                   
+		| 11:00 - 11:50 | Multi-Phase_Flows_tut                                   Boris_Golman          6.112                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Multi-Phase_Flows_lec                                   Boris_Golman          3.407                   
+		| 17:00 - 17:50 | Multi-Phase_Flows_lec                                   Boris_Golman          3.407                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Computational_Methods_in_Chemical_Engineering-II_clab   Boris_Golman          3.217(Lab)              
+		| 10:00 - 10:50 | Computational_Methods_in_Chemical_Engineering-II_clab   Boris_Golman          3.217(Lab)              
+		| 11:00 - 11:50 | Multi-Phase_Flows_clab                                  Boris_Golman          6.422(Lab)              
+		| 12:00 - 12:50 | Multi-Phase_Flows_clab                                  Boris_Golman          6.422(Lab)              
+		| 14:00 - 14:50 | Computational_Methods_in_Chemical_Engineering-II_tut    Boris_Golman          3.132                   
+		| 15:00 - 15:50 | Computational_Methods_in_Chemical_Engineering-II_tut    Boris_Golman          3.132                   
+		| 16:00 - 16:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+		| 17:00 - 17:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | Computational_Methods_in_Chemical_Engineering-II_lec    Boris_Golman          3.302                   
+		| 11:00 - 11:50 | Computational_Methods_in_Chemical_Engineering-II_lec    Boris_Golman          3.302                   
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Advanced_Process_Simulation_clab                        Torkmahalleh_Amouei   7.322(Lab)              
+		| 15:00 - 15:50 | Advanced_Process_Simulation_clab                        Torkmahalleh_Amouei   7.322(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Advanced_Process_Simulation_lec                         Torkmahalleh_Amouei   3.223(Lab)              
+		| 15:00 - 15:50 | Advanced_Process_Simulation_lec                         Torkmahalleh_Amouei   3.223(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+4Electric1
+~~~~~Monday~~~~~| 09:00 - 09:50 | Power_Systems_Protection_lec                            Hema_Kumar_Nunna      3.416                   
+		| 10:00 - 10:50 | Power_Systems_Protection_lec                            Hema_Kumar_Nunna      3.416                   
+		| 11:00 - 11:50 | Power_Systems_Protection_lab                            Hema_Kumar_Nunna      7.322(Lab)              
+		| 12:00 - 12:50 | Power_Systems_Protection_lab                            Hema_Kumar_Nunna      7.322(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | High_Voltage_Engineering_lab                            Mehdi_Bagheri         3.223(Lab)              
+		| 10:00 - 10:50 | High_Voltage_Engineering_lab                            Mehdi_Bagheri         3.223(Lab)              
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Power_Transmission_and_Distribution_plants_tut          Mehdi_Bagheri         3.302                   
+		| 16:00 - 16:50 | Power_Transmission_and_Distribution_plants_tut          Mehdi_Bagheri         3.302                   
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | High_Voltage_Engineering_tut                            Mehdi_Bagheri         3.317                   
+		| 17:00 - 17:50 | High_Voltage_Engineering_tut                            Mehdi_Bagheri         3.317                   
+~~~~Thursday~~~~| 09:00 - 09:50 | Power_Systems_Protection_tut                            Hema_Kumar_Nunna      3.132                   
+		| 10:00 - 10:50 | Power_Systems_Protection_tut                            Hema_Kumar_Nunna      3.132                   
+		| 11:00 - 11:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   6.307(Lab)              
+		| 12:00 - 12:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   6.307(Lab)              
+		| 14:00 - 14:50 | Power_Transmission_and_Distribution_plants_lab          Mehdi_Bagheri         6.307(Lab)              
+		| 15:00 - 15:50 | Power_Transmission_and_Distribution_plants_lab          Mehdi_Bagheri         6.307(Lab)              
+		| 16:00 - 16:50 | High_Voltage_Engineering_lec                            Mehdi_Bagheri         3.515                   
+		| 17:00 - 17:50 | High_Voltage_Engineering_lec                            Mehdi_Bagheri         3.515                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | Power_Transmission_and_Distribution_plants_lec          Mehdi_Bagheri         3.220                   
+		| 17:00 - 17:50 | Power_Transmission_and_Distribution_plants_lec          Mehdi_Bagheri         3.220                   
+4Electric2
+~~~~~Monday~~~~~| 09:00 - 09:50 | Power_Systems_Protection_lec                            Hema_Kumar_Nunna      3.416                   
+		| 10:00 - 10:50 | Power_Systems_Protection_lec                            Hema_Kumar_Nunna      3.416                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | Power_Transmission_and_Distribution_plants_tut          Mehdi_Bagheri         3.515                   
+		| 10:00 - 10:50 | Power_Transmission_and_Distribution_plants_tut          Mehdi_Bagheri         3.515                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Power_Transmission_and_Distribution_plants_lab          Mehdi_Bagheri         3.227(Lab)              
+		| 17:00 - 17:50 | Power_Transmission_and_Distribution_plants_lab          Mehdi_Bagheri         3.227(Lab)              
+~~~~Wednesday~~~| 09:00 - 09:50 | High_Voltage_Engineering_lab                            Mehdi_Bagheri         3.223(Lab)              
+		| 10:00 - 10:50 | High_Voltage_Engineering_lab                            Mehdi_Bagheri         3.223(Lab)              
+		| 11:00 - 11:50 | High_Voltage_Engineering_tut                            Mehdi_Bagheri         3.322                   
+		| 12:00 - 12:50 | High_Voltage_Engineering_tut                            Mehdi_Bagheri         3.322                   
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Power_Systems_Protection_tut                            Hema_Kumar_Nunna      3.302                   
+		| 17:00 - 17:50 | Power_Systems_Protection_tut                            Hema_Kumar_Nunna      3.302                   
+~~~~Thursday~~~~| 09:00 - 09:50 | Power_Systems_Protection_lab                            Hema_Kumar_Nunna      7.322(Lab)              
+		| 10:00 - 10:50 | Power_Systems_Protection_lab                            Hema_Kumar_Nunna      7.322(Lab)              
+		| 11:00 - 11:50 | Capstone_Project_1_clab                                 Mehdi_Bagheri         3.227(Lab)              
+		| 12:00 - 12:50 | Capstone_Project_1_clab                                 Mehdi_Bagheri         3.227(Lab)              
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | High_Voltage_Engineering_lec                            Mehdi_Bagheri         3.515                   
+		| 17:00 - 17:50 | High_Voltage_Engineering_lec                            Mehdi_Bagheri         3.515                   
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | Power_Transmission_and_Distribution_plants_lec          Mehdi_Bagheri         3.220                   
+		| 17:00 - 17:50 | Power_Transmission_and_Distribution_plants_lec          Mehdi_Bagheri         3.220                   
+4Mechanic1
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Computer_Aided_Geometric_Design_lec                     Konstantinos_Kostas   3.407                   
+		| 15:00 - 15:50 | Computer_Aided_Geometric_Design_lec                     Konstantinos_Kostas   3.407                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | Computer_Aided_Geometric_Design_lab                     Konstantinos_Kostas   3.223(Lab)              
+		| 16:00 - 16:50 | Computer_Aided_Geometric_Design_lab                     Konstantinos_Kostas   3.223(Lab)              
+		| 17:00 - 17:50 | 
+~~~~Wednesday~~~| 09:00 - 09:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_lec   Luis_Rojas            3.302                   
+		| 10:00 - 10:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_lec   Luis_Rojas            3.302                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Heating,_Ventilating,_and_AirConditioning_lec           Soo_Teh               3.302                   
+		| 15:00 - 15:50 | Heating,_Ventilating,_and_AirConditioning_lec           Soo_Teh               3.302                   
+		| 16:00 - 16:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_clab  Luis_Rojas            6.307(Lab)              
+		| 17:00 - 17:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_clab  Luis_Rojas            6.307(Lab)              
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | Heating,_Ventilating,_and_AirConditioning_tut           Soo_Teh               3.322                   
+		| 12:00 - 12:50 | Heating,_Ventilating,_and_AirConditioning_tut           Soo_Teh               3.322                   
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+		| 17:00 - 17:50 | Capstone_Project_1_clab                                 Moulay-Rachid_Babaa   3.227(Lab)              
+4Mechanic2
+~~~~~Monday~~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | Capstone_Project_1_clab                                 Soo_Teh               6.307(Lab)              
+		| 12:00 - 12:50 | Capstone_Project_1_clab                                 Soo_Teh               6.307(Lab)              
+		| 14:00 - 14:50 | Computer_Aided_Geometric_Design_lec                     Konstantinos_Kostas   3.407                   
+		| 15:00 - 15:50 | Computer_Aided_Geometric_Design_lec                     Konstantinos_Kostas   3.407                   
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~~Tuesday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | 
+		| 15:00 - 15:50 | 
+		| 16:00 - 16:50 | Heating,_Ventilating,_and_AirConditioning_tut           Soo_Teh               6.427                   
+		| 17:00 - 17:50 | Heating,_Ventilating,_and_AirConditioning_tut           Soo_Teh               6.427                   
+~~~~Wednesday~~~| 09:00 - 09:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_lec   Luis_Rojas            3.302                   
+		| 10:00 - 10:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_lec   Luis_Rojas            3.302                   
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_clab  Luis_Rojas            3.223(Lab)              
+		| 15:00 - 15:50 | Feasibility_Analysis_of_Clean_Energy_Technologies_clab  Luis_Rojas            3.223(Lab)              
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+~~~~Thursday~~~~| 09:00 - 09:50 | 
+		| 10:00 - 10:50 | 
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Heating,_Ventilating,_and_AirConditioning_lec           Soo_Teh               3.302                   
+		| 15:00 - 15:50 | Heating,_Ventilating,_and_AirConditioning_lec           Soo_Teh               3.302                   
+		| 16:00 - 16:50 | Computer_Aided_Geometric_Design_lab                     Konstantinos_Kostas   3.217(Lab)              
+		| 17:00 - 17:50 | Computer_Aided_Geometric_Design_lab                     Konstantinos_Kostas   3.217(Lab)              
+~~~~~Friday~~~~~| 09:00 - 09:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 10:00 - 10:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 11:00 - 11:50 | 
+		| 12:00 - 12:50 | 
+		| 14:00 - 14:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 15:00 - 15:50 | Capstone_Project_1_lec                                  Moulay-Rachid_Babaa   Blue_Hall               
+		| 16:00 - 16:50 | 
+		| 17:00 - 17:50 | 
+
